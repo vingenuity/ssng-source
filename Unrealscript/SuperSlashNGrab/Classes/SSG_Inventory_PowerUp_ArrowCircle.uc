@@ -1,0 +1,8 @@
+class SSG_Inventory_PowerUp_ArrowCircle extends SSG_Inventory_PowerUp;
+
+DefaultProperties
+{
+	PickupSound=SoundCue'MiscSounds.PowerUp3CUE'
+	PickupParticleSystem=ParticleSystem'SSG_PowerUps_01.BoltFrenzy.SSG_Powerups_Bolts_Pickup_01'
+	OnPlayerParticleSystem=ParticleSystem'SSG_PowerUps_01.BoltFrenzy.SSG_Powerups_Bolts_Active_PS_01'
+}

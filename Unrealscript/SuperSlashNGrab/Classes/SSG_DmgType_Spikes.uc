@@ -1,0 +1,1 @@
+class SSG_DmgType_Spikes extends SSG_DamageType;
